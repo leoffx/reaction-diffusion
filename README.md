@@ -1,3 +1,5 @@
-# Reaction-Diffusion Simulation
+# Projects inspired from The Coding Train
 
-A simulation of two virtual chemicals reacting and diffusing on a 2D grid using the Gray-Scott model
+(Reaction Diffusion Algorithm)[https://www.youtube.com/watch?v=BV9ny785UNc]
+
+(The Game of Life)[https://www.youtube.com/watch?v=FWSR_7kZuYg]
